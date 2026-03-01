@@ -97,3 +97,24 @@ If you have questions, requests, or want to delete your account/data, contact:
 
 **Company/Owner:** Wevent  
 **Email:** La.ismael@hotmail.com
+
+## Account Deletion (Delete Account Request)
+
+To request deletion of your Wevent account and associated personal data, please email us at:
+
+**La.ismael@hotmail.com**
+
+In your email, include:
+- The email address used for your Wevent account
+- Your full name (optional)
+- The request: “Delete my Wevent account and associated data”
+
+### What will be deleted
+We will delete (or anonymize where applicable):
+- Your account profile information
+- Bookings/requests linked to your account (where legally possible)
+- Chat messages and uploaded content (where applicable)
+
+### What may be retained
+We may retain certain records if required by law or for legitimate business purposes (e.g., fraud prevention, accounting).  
+If retention is required, we will keep only what is necessary and for the minimum period required.
